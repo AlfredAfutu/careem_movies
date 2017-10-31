@@ -1,4 +1,4 @@
-#CareemMovies
+#CareemMovies (mvvm architecture)
 
 #Functionality
 - Fetches the data from the http://docs.themoviedb.apiary.io/ API to display latest movies on the main screen
@@ -10,3 +10,4 @@
 - MovieEntityTest to test Movie table data access objects using AndroidJUnitRunner.
 - MovieListActivityTest to unit test MovieListActivity UI using Espresso.
 - MoviesViewModelTest to test MovieViewModel class using Roboelectric.
+
